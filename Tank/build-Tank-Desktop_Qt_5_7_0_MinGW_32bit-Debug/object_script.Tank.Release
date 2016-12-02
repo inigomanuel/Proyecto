@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\game.o
+./release\instrucciones.o
+./release\pantalla_jugador1.o
+./release\pantalla_jugador2.o
+./release\credits.o
+./release\matriz_juego_jugador2.o
+./release\qrc_inicio.o
+./release\moc_game.o
+./release\moc_instrucciones.o
+./release\moc_pantalla_jugador1.o
+./release\moc_pantalla_jugador2.o
+./release\moc_credits.o
+./release\moc_matriz_juego_jugador2.o
+);
